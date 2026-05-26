@@ -116,12 +116,21 @@ base_url=http://127.0.0.1:8000
 
 Some Demo UI screenshot for reference:
 
-<img width="1742" height="777" alt="image" src="https://github.com/user-attachments/assets/bb0c49a0-0a71-4fba-bbae-880f3c10bc34" />
+<img width="1551" height="740" alt="image" src="https://github.com/user-attachments/assets/a0500e5d-2c49-4e0a-9b58-bb4abcece61c" />
 
 
-<img width="1749" height="894" alt="image" src="https://github.com/user-attachments/assets/e43d6ccb-7953-4d6a-8861-c7471e72f30e" />
+<img width="1584" height="793" alt="image" src="https://github.com/user-attachments/assets/fa9db9e7-0b9b-4577-a50e-d0c94e0434cd" />
+
+<img width="1602" height="890" alt="image" src="https://github.com/user-attachments/assets/0337c0f6-1330-4d50-93c7-cad4533bf699" />
 
 
-<img width="1524" height="761" alt="image" src="https://github.com/user-attachments/assets/7e588184-9b5e-4a62-82a5-16d4928d7a25" />
+<img width="1789" height="885" alt="image" src="https://github.com/user-attachments/assets/d71b5e00-9ba4-4453-ad55-330e7e4547f9" />
+
+<img width="1708" height="875" alt="image" src="https://github.com/user-attachments/assets/e00337cd-d649-463b-8eae-e3974ca021dd" />
+
+<img width="1555" height="886" alt="image" src="https://github.com/user-attachments/assets/b116c3b6-9081-487f-afad-975ea1ef4713" />
+
+<img width="1598" height="843" alt="image" src="https://github.com/user-attachments/assets/403bf3cc-04b3-45bb-917b-a039708e4e2a" />
+
 
 
